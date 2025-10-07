@@ -1,2 +1,2 @@
 # gigigit
-practice git branching
+teaching git branching
